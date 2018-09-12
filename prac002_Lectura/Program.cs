@@ -6,7 +6,7 @@ namespace prac002
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Introduce tu nombre plix");
+            Console.WriteLine("Introduce tu nombre");
             string nombre = Console.ReadLine();
             Console.WriteLine("Introduce tu apellido por parte de tu papa");
             string apellidoPaterno = Console.ReadLine();
@@ -15,7 +15,8 @@ namespace prac002
             Console.WriteLine("Que edad tienes");
             int edad = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Mucho gusto " + " " + apellidoPaterno + " " + apellidoMaterno + " " + nombre);
+            Console.WriteLine("Mucho gusto " + apellidoPaterno + " " + apellidoMaterno + " " + nombre);
+            Console.WriteLine("Ni pareces de " + edad);
         }
     }
 }
