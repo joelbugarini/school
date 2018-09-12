@@ -15,7 +15,7 @@ namespace prac002
             Console.WriteLine("Que edad tienes");
             int edad = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Mucho gusto " + nombre + " " + apellidoPaterno + " " + apellidoMaterno + " " + edad);
+            Console.WriteLine("Mucho gusto " + " " + apellidoPaterno + " " + apellidoMaterno + " " + nombre);
         }
     }
 }
