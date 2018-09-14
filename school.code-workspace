@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "prac001_Variables"
+		},
+		{
+			"path": "prac002_Lectura"
+		},
+		{
+			"path": "prac003_Operadores"
+		},
+		{
+			"path": "prac004_Calificaciones"
+		},
+		{
+			"path": "prac005_Triangulo"
+		},
+		{
+			"path": "prac006_Circulo"
+		}
+	],
+	"settings": {}
+}
