@@ -15,7 +15,7 @@ namespace prac007
             Console.WriteLine(mts + "mts = " + mts*0.001 + "km");
             Console.WriteLine(mts + "mts = " + mts*39.3701 + "in");
             Console.WriteLine(mts + "mts = " + mts*3.28084 + "ft");
-            Console.WriteLine(mts + "mts = " + mts*0.000621371 + "ft");
+            Console.WriteLine(mts + "mts = " + mts*0.000621371 + "mile");
         }
     }
 }
