@@ -20,6 +20,12 @@
 		},
 		{
 			"path": "prac007_Conversiones"
+		},
+		{
+			"path": "prac008_Edad"
+		},
+		{
+			"path": "prac009_Mayor"
 		}
 	],
 	"settings": {}

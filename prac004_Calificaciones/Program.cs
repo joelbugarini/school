@@ -8,7 +8,7 @@ namespace prac004_Conversiones
         {
             Console.WriteLine("Programa que calcula promedios de Calificaciones");
             Console.WriteLine("Introduzca la calificacion del primer parcial");
-            double parcial_1 = Convert.ToDouble(Console.ReadLine());
+             double parcial_1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Introduzca la calificacion del segundo parcial");
             double parcial_2 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Introduzca la calificacion integradora");
