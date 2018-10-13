@@ -9,18 +9,16 @@ namespace prac
             Console.WriteLine("Valor de la constante de Euler");
             Console.WriteLine("Ingrese el numero de iteraciones");
             double iteraciones = Convert.ToInt64(Console.ReadLine());
-            if (iteraciones >= 1 && iteraciones <= 100)
-            {
-
-            double euler = 0;
-
-            for (int i = 1; i < iteraciones; i++)
-            {
-                euler += (1/factorial(i));
-            }
-            Console.WriteLine("e = " + euler);
-            }
-            else { Console.WriteLine("Recuerde que el intervalo tiene que estrar entre 1 y 100"); }
+            if(iteraciones >= 1 && iteraciones <= 25){
+                double euler = 0;
+                int i = 1;
+                while ( i < iteraciones)
+                {
+                    euler += (1/factorial(i));
+                    i++;
+                }
+                Console.WriteLine("e = " + euler);
+            }else{ Console.WriteLine("Recuerde que el intervalo tiene que estrar entre 1 y 100"); }
         }
 
         static double factorial(double i){
