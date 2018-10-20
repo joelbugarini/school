@@ -26,6 +26,102 @@
 		},
 		{
 			"path": "prac009_Mayor"
+		},
+		{
+			"path": "prac010_Edades"
+		},
+		{
+			"path": "prac011_Triangulos"
+		},
+		{
+			"path": "prac012_PiesCentimetros"
+		},
+		{
+			"path": "prac013_Centigrados"
+		},
+		{
+			"path": "prac014_Negativos"
+		},
+		{
+			"path": "prac015_For1010"
+		},
+		{
+			"path": "prac016_ForPares"
+		},
+		{
+			"path": "prac017_Tabla7"
+		},
+		{
+			"path": "prac018_Sumatoria"
+		},
+		{
+			"path": "prac019_SumatoriaFracc"
+		},
+		{
+			"path": "prac020_Ciclos333"
+		},
+		{
+			"path": "prac021_Multiplos3"
+		},
+		{
+			"path": "prac022_Multiplos3Conteo"
+		},
+		{
+			"path": "prac023_ElevarAlCubo"
+		},
+		{
+			"path": "prac024_Fibonacci"
+		},
+		{
+			"path": "prac025_Pi"
+		},
+		{
+			"path": "prac026_Euler"
+		},
+		{
+			"path": "prac027_Farey"
+		},
+		{
+			"path": "prac028_TablaN10"
+		},
+		{
+			"path": "prac029_Padovan"
+		},
+		{
+			"path": "prac030_Ciclos333_While"
+		},
+		{
+			"path": "prac031_Multiplos3_While"
+		},
+		{
+			"path": "prac032_Multiplos3Conteo_While"
+		},
+		{
+			"path": "prac033_ElevarAlCubo_While"
+		},
+		{
+			"path": "prac034_Fibonacci_While"
+		},
+		{
+			"path": "prac035_Pi_While"
+		},
+		{
+			"path": "prac036_Euler_While"
+		},
+		{
+			"path": "prac037_Farey_While"
+		},
+		{
+			"path": "prac038_TablaN10_While"
+		},
+		{
+			"path": "prac039_Padovan_While"
+		},
+		{
+			"path": "prac040_TryCatch"
+		},
+		{
+			"path": "prac041_NIP"
 		}
 	],
 	"settings": {}

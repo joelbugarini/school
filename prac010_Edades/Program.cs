@@ -8,7 +8,15 @@ namespace prac010
         {
             Console.WriteLine("Clasificador de Edades");
             Console.WriteLine("Cuantos años tienes?");
-            int edad = Convert.ToInt16(Console.ReadLine());
+
+            int edad = 0;
+            while(edad == 0){
+                try {
+                    edad = Convert.ToInt16(Console.ReadLine());
+                } catch (Exception){
+                    Console.WriteLine("Solo numeros enteros, vuelve a intentar");
+                }
+            }
 
             if (edad > 120) Console.WriteLine("Dificil de Creer!");
             if (edad > 0 && edad < 12) Console.WriteLine("Niño");
