@@ -1,3 +1,7 @@
-# school
+# Programacion Orientada a Objetos
 
-c# basic lessons
+Ejercicios en Windows Forms de ventas de usuarios. 
+
+
+
+
