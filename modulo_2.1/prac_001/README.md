@@ -1,3 +1,0 @@
-# school
-
-c# basic lessons
