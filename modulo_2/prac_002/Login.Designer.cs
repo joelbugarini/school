@@ -33,6 +33,7 @@
             this.txt_user = new System.Windows.Forms.TextBox();
             this.txt_pass = new System.Windows.Forms.TextBox();
             this.btn_Acceder = new System.Windows.Forms.Button();
+            this.btn_Salir = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lbl_Usuario
@@ -64,24 +65,39 @@
             // 
             this.txt_pass.Location = new System.Drawing.Point(76, 45);
             this.txt_pass.Name = "txt_pass";
+            this.txt_pass.PasswordChar = '*';
             this.txt_pass.Size = new System.Drawing.Size(100, 20);
             this.txt_pass.TabIndex = 3;
             // 
             // btn_Acceder
             // 
+            this.btn_Acceder.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Acceder.Location = new System.Drawing.Point(76, 80);
             this.btn_Acceder.Name = "btn_Acceder";
             this.btn_Acceder.Size = new System.Drawing.Size(100, 23);
             this.btn_Acceder.TabIndex = 4;
-            this.btn_Acceder.Text = "Acceder";
+            this.btn_Acceder.Text = "Acceder 👉 ";
             this.btn_Acceder.UseVisualStyleBackColor = true;
             this.btn_Acceder.Click += new System.EventHandler(this.btn_Acceder_Click);
+            // 
+            // btn_Salir
+            // 
+            this.btn_Salir.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_Salir.Location = new System.Drawing.Point(76, 117);
+            this.btn_Salir.Name = "btn_Salir";
+            this.btn_Salir.Size = new System.Drawing.Size(100, 23);
+            this.btn_Salir.TabIndex = 5;
+            this.btn_Salir.Text = "Salir";
+            this.btn_Salir.UseVisualStyleBackColor = true;
+            this.btn_Salir.Click += new System.EventHandler(this.btn_Salir_Click);
             // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(584, 361);
+            this.Controls.Add(this.btn_Salir);
             this.Controls.Add(this.btn_Acceder);
             this.Controls.Add(this.txt_pass);
             this.Controls.Add(this.txt_user);
@@ -101,5 +117,6 @@
         private System.Windows.Forms.TextBox txt_user;
         private System.Windows.Forms.TextBox txt_pass;
         private System.Windows.Forms.Button btn_Acceder;
+        private System.Windows.Forms.Button btn_Salir;
     }
 }
