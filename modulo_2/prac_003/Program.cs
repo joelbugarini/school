@@ -16,7 +16,7 @@ namespace prac_003
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Promedio());
+            Application.Run(new Circulo());
         }
     }
 }

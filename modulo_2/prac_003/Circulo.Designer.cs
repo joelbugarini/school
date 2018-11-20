@@ -70,6 +70,7 @@
             this.btn_Calcular.TabIndex = 3;
             this.btn_Calcular.Text = "Calcular";
             this.btn_Calcular.UseVisualStyleBackColor = true;
+            this.btn_Calcular.Click += new System.EventHandler(this.btn_Calcular_Click);
             // 
             // txt_Radio
             // 

@@ -16,5 +16,11 @@ namespace prac_003
         {
             InitializeComponent();
         }
+
+        private void btn_Calcular_Click(object sender, EventArgs e)
+        {
+            double r = Convert.ToDouble(txt_Radio.Text);
+            lbl_Resultado.Text = (Math.PI * r * r).ToString();
+        }
     }
 }
