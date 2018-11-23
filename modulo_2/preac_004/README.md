@@ -1,18 +1,16 @@
-# Actividad 3
+# Actividad 4
 
-Se usaron los controles de Grid View, TextBox, Button y Label asi como algunos otros.
+6. Aplicación que muestra en pantalla un interfaz para cajero de banco.
+![cajero](https://user-images.githubusercontent.com/4912547/48961789-be02ea00-ef34-11e8-82b9-686601c5f837.jpg)
 
-Programa que determine si un alumno tiene derrechoa extraordinario
-![extraordinario](https://user-images.githubusercontent.com/4912547/48808457-1b512e00-ecde-11e8-9c16-f9c8b023b21c.PNG)
+7. Aplicación que solicita 11 letras el usuario, tomar la letra 1, 4, 6, 9 y 11 para formar una palabra concatenándolas en sentido inverso. 
+![letras](https://user-images.githubusercontent.com/4912547/48961790-be02ea00-ef34-11e8-9314-5145f23ae03f.jpg)
 
-Programa que calcula el promedio de 15 calificaciones
-![promedio](https://user-images.githubusercontent.com/4912547/48808454-1ab89780-ecde-11e8-94d8-04189e8286eb.PNG)
+8. Aplicación que declare una matriz con diez registros y busca en ella.
+![busqueda](https://user-images.githubusercontent.com/4912547/48961791-be02ea00-ef34-11e8-9813-a39512884a74.jpg)
 
-Programa que calcula el area de un Circulo
-![circulo](https://user-images.githubusercontent.com/4912547/48808455-1ab89780-ecde-11e8-9db8-0230e2714f1e.PNG)
+9. Este ejercicio involucra la creación de un editor de texto simple. 
+![editor](https://user-images.githubusercontent.com/4912547/48961792-be02ea00-ef34-11e8-887c-aebb04f8e17d.jpg)
 
-Programa que convierte metros a varias unidades
-![convertir](https://user-images.githubusercontent.com/4912547/48808456-1ab89780-ecde-11e8-9beb-8d7ec16ead7d.PNG)
-
-Programa para encontrar la secuencia de Fibonacci, dado un limite superior
-![fibonacci](https://user-images.githubusercontent.com/4912547/48808458-1b512e00-ecde-11e8-8307-95e8f9af2aa1.PNG)
+10. Desarrolle una aplicación que simule el juego del gato.
+![gato](https://user-images.githubusercontent.com/4912547/48961793-be02ea00-ef34-11e8-9d3b-e0e938b03b78.jpg)
