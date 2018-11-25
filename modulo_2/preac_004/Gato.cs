@@ -32,10 +32,13 @@ namespace preac_004
             if (turno)
             {
                 b.Text = "X";
+                b.BackgroundImage = Properties.Resources.X;
+
             }
             else
             {
                 b.Text = "O";
+                b.BackgroundImage = Properties.Resources.O;
             }
             turno = !turno;
             b.Enabled = false;
@@ -138,6 +141,7 @@ namespace preac_004
                     Button b = (Button)c;
                     b.Enabled = true;
                     b.Text = "";
+                    b.BackgroundImage = null;
                 }
             }
             catch (Exception)

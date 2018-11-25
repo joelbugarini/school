@@ -37,16 +37,18 @@
             this.A3 = new System.Windows.Forms.Button();
             this.A2 = new System.Windows.Forms.Button();
             this.A1 = new System.Windows.Forms.Button();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.newGameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // C3
             // 
-            this.C3.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.C3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.C3.Font = new System.Drawing.Font("Mistral", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.C3.ForeColor = System.Drawing.Color.White;
             this.C3.Location = new System.Drawing.Point(174, 187);
             this.C3.Name = "C3";
             this.C3.Size = new System.Drawing.Size(75, 75);
@@ -56,7 +58,9 @@
             // 
             // C2
             // 
-            this.C2.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.C2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.C2.Font = new System.Drawing.Font("Mistral", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.C2.ForeColor = System.Drawing.Color.White;
             this.C2.Location = new System.Drawing.Point(93, 187);
             this.C2.Name = "C2";
             this.C2.Size = new System.Drawing.Size(75, 75);
@@ -66,7 +70,9 @@
             // 
             // C1
             // 
-            this.C1.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.C1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.C1.Font = new System.Drawing.Font("Mistral", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.C1.ForeColor = System.Drawing.Color.White;
             this.C1.Location = new System.Drawing.Point(12, 187);
             this.C1.Name = "C1";
             this.C1.Size = new System.Drawing.Size(75, 75);
@@ -76,7 +82,9 @@
             // 
             // B3
             // 
-            this.B3.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.B3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.B3.Font = new System.Drawing.Font("Mistral", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.B3.ForeColor = System.Drawing.Color.White;
             this.B3.Location = new System.Drawing.Point(174, 106);
             this.B3.Name = "B3";
             this.B3.Size = new System.Drawing.Size(75, 75);
@@ -86,7 +94,9 @@
             // 
             // B2
             // 
-            this.B2.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.B2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.B2.Font = new System.Drawing.Font("Mistral", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.B2.ForeColor = System.Drawing.Color.White;
             this.B2.Location = new System.Drawing.Point(93, 106);
             this.B2.Name = "B2";
             this.B2.Size = new System.Drawing.Size(75, 75);
@@ -96,7 +106,9 @@
             // 
             // B1
             // 
-            this.B1.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.B1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.B1.Font = new System.Drawing.Font("Mistral", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.B1.ForeColor = System.Drawing.Color.White;
             this.B1.Location = new System.Drawing.Point(12, 106);
             this.B1.Name = "B1";
             this.B1.Size = new System.Drawing.Size(75, 75);
@@ -106,7 +118,9 @@
             // 
             // A3
             // 
-            this.A3.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.A3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.A3.Font = new System.Drawing.Font("Mistral", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.A3.ForeColor = System.Drawing.Color.White;
             this.A3.Location = new System.Drawing.Point(174, 25);
             this.A3.Name = "A3";
             this.A3.Size = new System.Drawing.Size(75, 75);
@@ -116,7 +130,9 @@
             // 
             // A2
             // 
-            this.A2.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.A2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.A2.Font = new System.Drawing.Font("Mistral", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.A2.ForeColor = System.Drawing.Color.White;
             this.A2.Location = new System.Drawing.Point(93, 25);
             this.A2.Name = "A2";
             this.A2.Size = new System.Drawing.Size(75, 75);
@@ -126,23 +142,15 @@
             // 
             // A1
             // 
-            this.A1.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.A1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.A1.Font = new System.Drawing.Font("Mistral", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.A1.ForeColor = System.Drawing.Color.White;
             this.A1.Location = new System.Drawing.Point(12, 25);
             this.A1.Name = "A1";
             this.A1.Size = new System.Drawing.Size(75, 75);
             this.A1.TabIndex = 11;
             this.A1.UseVisualStyleBackColor = true;
             this.A1.Click += new System.EventHandler(this.button_click);
-            // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.fileToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(261, 24);
-            this.menuStrip1.TabIndex = 10;
-            this.menuStrip1.Text = "menuStrip1";
             // 
             // fileToolStripMenuItem
             // 
@@ -156,15 +164,25 @@
             // newGameToolStripMenuItem
             // 
             this.newGameToolStripMenuItem.Name = "newGameToolStripMenuItem";
-            this.newGameToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.newGameToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
             this.newGameToolStripMenuItem.Text = "Nuevo";
             this.newGameToolStripMenuItem.Click += new System.EventHandler(this.nuevoJuego_Click);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
             this.exitToolStripMenuItem.Text = "Salir";
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.fileToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(261, 24);
+            this.menuStrip1.TabIndex = 10;
+            this.menuStrip1.Text = "menuStrip1";
             // 
             // Gato
             // 
@@ -201,9 +219,9 @@
         private System.Windows.Forms.Button A3;
         private System.Windows.Forms.Button A2;
         private System.Windows.Forms.Button A1;
-        private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem newGameToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
+        private System.Windows.Forms.MenuStrip menuStrip1;
     }
 }
