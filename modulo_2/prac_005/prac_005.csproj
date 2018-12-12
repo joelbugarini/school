@@ -107,7 +107,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="README.A3.md" />
+    <None Include="README.A2.md" />
     <None Include="README.md" />
     <None Include="Resources\iconfinder_icons_add_1564491.png" />
   </ItemGroup>

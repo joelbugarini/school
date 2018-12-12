@@ -16,7 +16,7 @@ namespace prac_005
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Nombre());
+            Application.Run(new Form1());
         }
     }
 }
