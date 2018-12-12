@@ -4,4 +4,6 @@ Formulario de captura de Informacion de usuarios
 
 El codigo esta en el archivo Form1.cs
 
-![capture](https://user-images.githubusercontent.com/4912547/48807166-efcc4480-ecd9-11e8-8a8a-c9722d9fcf31.PNG)
+![2018-12-11_23h38_05](https://user-images.githubusercontent.com/4912547/49851750-51df0d80-fd9f-11e8-9ceb-f178165eed55.png)
+![2018-12-11_23h45_02](https://user-images.githubusercontent.com/4912547/49851751-51df0d80-fd9f-11e8-9ed6-634ab9cce0b0.png)
+![2018-12-11_23h45_16](https://user-images.githubusercontent.com/4912547/49851752-51df0d80-fd9f-11e8-933c-37d6a9819c1e.png)
