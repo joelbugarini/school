@@ -25,4 +25,4 @@ Se usaron los controles de Grid View, TextBox, Button y Label asi como algunos o
 
 2.5 Este ejercicio involucra la creación de un editor de texto simple. 
 
-https://user-images.githubusercontent.com/4912547/48961792-be02ea00-ef34-11e8-887c-aebb04f8e17d.jpg
+![editor](https://user-images.githubusercontent.com/4912547/48961792-be02ea00-ef34-11e8-887c-aebb04f8e17d.jpg)
